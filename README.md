@@ -1,6 +1,6 @@
 # L3T06 - NLP Applications Categorization
 
-
+## Capstone Project - NLP Applications
 ## Overview
 This task involves categorizing different NLP applications based on the categories discussed during the bootcamp. The categorization will be done for three use-cases provided in the file `nlp_1.pdf`. Additionally, an example of an innovative NLP technology, such as Gmail's auto-response suggestions, will be discussed.
 

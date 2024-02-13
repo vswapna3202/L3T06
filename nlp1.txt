@@ -1,0 +1,26 @@
+Now that you know a little about the various categories of NLP applications, do you think you can identify 
+these when considering particular applications? Give it a try.
+● In a file called nlp_1.pdf, categorise each of the following use-cases:
+(Use the categories we have discussed on this bootcamp so far)
+
+a. A model that allocates which mail folder an email should be sent to (work, friends, promotions, 
+important), like Gmail’s inbox tabs.
+
+Text Processing model will be used to allocate mails to relevant folders based on their content. This would 
+involve training a model to assign predefined categories or labels(work, friends, promotions, important) to 
+text documents based on their content. So the content of the email will be analyzed to categorize them into 
+specific folders.
+
+b. A model that helps decide what grade to award to an essay question. This can be used by a university 
+professor who grades a lot of classes or essay competitions.
+
+Automatic Summarization model will be used where the essays can be condensed with the main ideas to aid the 
+professor to skim through a large number of essays and efficiently grade a large number of essays.
+
+c. A model that provides assistive technology for doctors to provide their diagnosis. Remember, doctors ask 
+questions, so the model will use the patients’ answers to provide probable diagnoses for the doctor to weigh 
+and make decisions on.
+
+Question Answering model will be used where doctors can pose their questions and the model will use the 
+patients’ answers to provide probable diagnoses. It will support doctors in making informed decisions 
+about diagnoses.
